@@ -1,4 +1,4 @@
-Avengers Authentication System
+**Avengers Authentication System**
 
 This Android application provides a unique login experience for both privileged and unprivileged Avengers. Privileged Avengers access the app with specific passwords and see their superhero names displayed in the title bar. Unprivileged Avengers use a general password and a shared mobile number to log in.
 
